@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CSharp_Ostad\\MiniInventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DC02A8-1ADD-4AD3-84F8-5FE4928ECF35}|MiniInventory\\MiniInventory.csproj|c:\\csharp_ostad\\miniinventory\\miniinventory\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3DC02A8-1ADD-4AD3-84F8-5FE4928ECF35}|MiniInventory\\MiniInventory.csproj|solutionrelative:miniinventory\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DC02A8-1ADD-4AD3-84F8-5FE4928ECF35}|MiniInventory\\MiniInventory.csproj|c:\\csharp_ostad\\miniinventory\\miniinventory\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3DC02A8-1ADD-4AD3-84F8-5FE4928ECF35}|MiniInventory\\MiniInventory.csproj|solutionrelative:miniinventory\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DC02A8-1ADD-4AD3-84F8-5FE4928ECF35}|MiniInventory\\MiniInventory.csproj|c:\\csharp_ostad\\miniinventory\\miniinventory\\dtos\\searchfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3DC02A8-1ADD-4AD3-84F8-5FE4928ECF35}|MiniInventory\\MiniInventory.csproj|solutionrelative:miniinventory\\dtos\\searchfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DC02A8-1ADD-4AD3-84F8-5FE4928ECF35}|MiniInventory\\MiniInventory.csproj|c:\\csharp_ostad\\miniinventory\\miniinventory\\services\\interfaces\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3DC02A8-1ADD-4AD3-84F8-5FE4928ECF35}|MiniInventory\\MiniInventory.csproj|solutionrelative:miniinventory\\services\\interfaces\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DC02A8-1ADD-4AD3-84F8-5FE4928ECF35}|MiniInventory\\MiniInventory.csproj|c:\\csharp_ostad\\miniinventory\\miniinventory\\data\\customdtomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3DC02A8-1ADD-4AD3-84F8-5FE4928ECF35}|MiniInventory\\MiniInventory.csproj|solutionrelative:miniinventory\\data\\customdtomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DC02A8-1ADD-4AD3-84F8-5FE4928ECF35}|MiniInventory\\MiniInventory.csproj|c:\\csharp_ostad\\miniinventory\\miniinventory\\services\\implementations\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3DC02A8-1ADD-4AD3-84F8-5FE4928ECF35}|MiniInventory\\MiniInventory.csproj|solutionrelative:miniinventory\\services\\implementations\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DC02A8-1ADD-4AD3-84F8-5FE4928ECF35}|MiniInventory\\MiniInventory.csproj|c:\\csharp_ostad\\miniinventory\\miniinventory\\repositories\\interfaces\\iproductrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3DC02A8-1ADD-4AD3-84F8-5FE4928ECF35}|MiniInventory\\MiniInventory.csproj|solutionrelative:miniinventory\\repositories\\interfaces\\iproductrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DC02A8-1ADD-4AD3-84F8-5FE4928ECF35}|MiniInventory\\MiniInventory.csproj|c:\\csharp_ostad\\miniinventory\\miniinventory\\repositories\\implementations\\productrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3DC02A8-1ADD-4AD3-84F8-5FE4928ECF35}|MiniInventory\\MiniInventory.csproj|solutionrelative:miniinventory\\repositories\\implementations\\productrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DC02A8-1ADD-4AD3-84F8-5FE4928ECF35}|MiniInventory\\MiniInventory.csproj|c:\\csharp_ostad\\miniinventory\\miniinventory\\models\\viewmodels\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3DC02A8-1ADD-4AD3-84F8-5FE4928ECF35}|MiniInventory\\MiniInventory.csproj|solutionrelative:miniinventory\\models\\viewmodels\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DC02A8-1ADD-4AD3-84F8-5FE4928ECF35}|MiniInventory\\MiniInventory.csproj|c:\\csharp_ostad\\miniinventory\\miniinventory\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3DC02A8-1ADD-4AD3-84F8-5FE4928ECF35}|MiniInventory\\MiniInventory.csproj|solutionrelative:miniinventory\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DC02A8-1ADD-4AD3-84F8-5FE4928ECF35}|MiniInventory\\MiniInventory.csproj|c:\\csharp_ostad\\miniinventory\\miniinventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3DC02A8-1ADD-4AD3-84F8-5FE4928ECF35}|MiniInventory\\MiniInventory.csproj|solutionrelative:miniinventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DC02A8-1ADD-4AD3-84F8-5FE4928ECF35}|MiniInventory\\MiniInventory.csproj|c:\\csharp_ostad\\miniinventory\\miniinventory\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3DC02A8-1ADD-4AD3-84F8-5FE4928ECF35}|MiniInventory\\MiniInventory.csproj|solutionrelative:miniinventory\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DC02A8-1ADD-4AD3-84F8-5FE4928ECF35}|MiniInventory\\MiniInventory.csproj|c:\\csharp_ostad\\miniinventory\\miniinventory\\models\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3DC02A8-1ADD-4AD3-84F8-5FE4928ECF35}|MiniInventory\\MiniInventory.csproj|solutionrelative:miniinventory\\models\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DC02A8-1ADD-4AD3-84F8-5FE4928ECF35}|MiniInventory\\MiniInventory.csproj|c:\\csharp_ostad\\miniinventory\\miniinventory\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3DC02A8-1ADD-4AD3-84F8-5FE4928ECF35}|MiniInventory\\MiniInventory.csproj|solutionrelative:miniinventory\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DC02A8-1ADD-4AD3-84F8-5FE4928ECF35}|MiniInventory\\MiniInventory.csproj|c:\\csharp_ostad\\miniinventory\\miniinventory\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3DC02A8-1ADD-4AD3-84F8-5FE4928ECF35}|MiniInventory\\MiniInventory.csproj|solutionrelative:miniinventory\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CSharp_Ostad\\MiniInventory\\MiniInventory\\Migrations\\20250621125146_InitalProductTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MiniInventory\\Migrations\\20250621125146_InitalProductTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchFilterDto.cs",
+              "DocumentMoniker": "C:\\CSharp_Ostad\\MiniInventory\\MiniInventory\\DTOs\\SearchFilterDto.cs",
+              "RelativeDocumentMoniker": "MiniInventory\\DTOs\\SearchFilterDto.cs",
+              "ToolTip": "C:\\CSharp_Ostad\\MiniInventory\\MiniInventory\\DTOs\\SearchFilterDto.cs",
+              "RelativeToolTip": "MiniInventory\\DTOs\\SearchFilterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T16:17:16.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductServices.cs",
+              "DocumentMoniker": "C:\\CSharp_Ostad\\MiniInventory\\MiniInventory\\Services\\Interfaces\\IProductServices.cs",
+              "RelativeDocumentMoniker": "MiniInventory\\Services\\Interfaces\\IProductServices.cs",
+              "ToolTip": "C:\\CSharp_Ostad\\MiniInventory\\MiniInventory\\Services\\Interfaces\\IProductServices.cs",
+              "RelativeToolTip": "MiniInventory\\Services\\Interfaces\\IProductServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T14:26:29.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomDtoMapper.cs",
+              "DocumentMoniker": "C:\\CSharp_Ostad\\MiniInventory\\MiniInventory\\Data\\CustomDtoMapper.cs",
+              "RelativeDocumentMoniker": "MiniInventory\\Data\\CustomDtoMapper.cs",
+              "ToolTip": "C:\\CSharp_Ostad\\MiniInventory\\MiniInventory\\Data\\CustomDtoMapper.cs",
+              "RelativeToolTip": "MiniInventory\\Data\\CustomDtoMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T14:17:20.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductServices.cs",
+              "DocumentMoniker": "C:\\CSharp_Ostad\\MiniInventory\\MiniInventory\\Services\\Implementations\\ProductServices.cs",
+              "RelativeDocumentMoniker": "MiniInventory\\Services\\Implementations\\ProductServices.cs",
+              "ToolTip": "C:\\CSharp_Ostad\\MiniInventory\\MiniInventory\\Services\\Implementations\\ProductServices.cs",
+              "RelativeToolTip": "MiniInventory\\Services\\Implementations\\ProductServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T14:14:28.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductRepositories.cs",
+              "DocumentMoniker": "C:\\CSharp_Ostad\\MiniInventory\\MiniInventory\\Repositories\\Interfaces\\IProductRepositories.cs",
+              "RelativeDocumentMoniker": "MiniInventory\\Repositories\\Interfaces\\IProductRepositories.cs",
+              "ToolTip": "C:\\CSharp_Ostad\\MiniInventory\\MiniInventory\\Repositories\\Interfaces\\IProductRepositories.cs",
+              "RelativeToolTip": "MiniInventory\\Repositories\\Interfaces\\IProductRepositories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T14:13:46.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductRepositories.cs",
+              "DocumentMoniker": "C:\\CSharp_Ostad\\MiniInventory\\MiniInventory\\Repositories\\Implementations\\ProductRepositories.cs",
+              "RelativeDocumentMoniker": "MiniInventory\\Repositories\\Implementations\\ProductRepositories.cs",
+              "ToolTip": "C:\\CSharp_Ostad\\MiniInventory\\MiniInventory\\Repositories\\Implementations\\ProductRepositories.cs",
+              "RelativeToolTip": "MiniInventory\\Repositories\\Implementations\\ProductRepositories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T14:12:02.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\CSharp_Ostad\\MiniInventory\\MiniInventory\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "MiniInventory\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\CSharp_Ostad\\MiniInventory\\MiniInventory\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "MiniInventory\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T13:52:18.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\CSharp_Ostad\\MiniInventory\\MiniInventory\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiniInventory\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\CSharp_Ostad\\MiniInventory\\MiniInventory\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "MiniInventory\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAB4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T13:42:56.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\CSharp_Ostad\\MiniInventory\\MiniInventory\\Models\\ViewModels\\ProductModel.cs",
+              "RelativeDocumentMoniker": "MiniInventory\\Models\\ViewModels\\ProductModel.cs",
+              "ToolTip": "C:\\CSharp_Ostad\\MiniInventory\\MiniInventory\\Models\\ViewModels\\ProductModel.cs",
+              "RelativeToolTip": "MiniInventory\\Models\\ViewModels\\ProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T13:35:57.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\CSharp_Ostad\\MiniInventory\\MiniInventory\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MiniInventory\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\CSharp_Ostad\\MiniInventory\\MiniInventory\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MiniInventory\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T12:54:23.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250621125146_InitalProductTable.cs",
+              "DocumentMoniker": "C:\\CSharp_Ostad\\MiniInventory\\MiniInventory\\Migrations\\20250621125146_InitalProductTable.cs",
+              "RelativeDocumentMoniker": "MiniInventory\\Migrations\\20250621125146_InitalProductTable.cs",
+              "ToolTip": "C:\\CSharp_Ostad\\MiniInventory\\MiniInventory\\Migrations\\20250621125146_InitalProductTable.cs",
+              "RelativeToolTip": "MiniInventory\\Migrations\\20250621125146_InitalProductTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T12:51:46.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CSharp_Ostad\\MiniInventory\\MiniInventory\\Program.cs",
+              "RelativeDocumentMoniker": "MiniInventory\\Program.cs",
+              "ToolTip": "C:\\CSharp_Ostad\\MiniInventory\\MiniInventory\\Program.cs",
+              "RelativeToolTip": "MiniInventory\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T12:46:37.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\CSharp_Ostad\\MiniInventory\\MiniInventory\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "MiniInventory\\Data\\DataContext.cs",
+              "ToolTip": "C:\\CSharp_Ostad\\MiniInventory\\MiniInventory\\Data\\DataContext.cs",
+              "RelativeToolTip": "MiniInventory\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T12:44:01.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\CSharp_Ostad\\MiniInventory\\MiniInventory\\Models\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "MiniInventory\\Models\\Entities\\Category.cs",
+              "ToolTip": "C:\\CSharp_Ostad\\MiniInventory\\MiniInventory\\Models\\Entities\\Category.cs",
+              "RelativeToolTip": "MiniInventory\\Models\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T12:39:57.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\CSharp_Ostad\\MiniInventory\\MiniInventory\\Models\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "MiniInventory\\Models\\Entities\\Product.cs",
+              "ToolTip": "C:\\CSharp_Ostad\\MiniInventory\\MiniInventory\\Models\\Entities\\Product.cs",
+              "RelativeToolTip": "MiniInventory\\Models\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T12:33:50.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\CSharp_Ostad\\MiniInventory\\MiniInventory\\appsettings.json",
+              "RelativeDocumentMoniker": "MiniInventory\\appsettings.json",
+              "ToolTip": "C:\\CSharp_Ostad\\MiniInventory\\MiniInventory\\appsettings.json",
+              "RelativeToolTip": "MiniInventory\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-21T12:17:29.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
